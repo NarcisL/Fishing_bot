@@ -1,6 +1,8 @@
 Before use:
 deschide-ti un cmd ca admin
+
 cd in folder
+
 setup_env.bat
 
 deschideti cu vs code
