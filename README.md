@@ -18,8 +18,8 @@ cuda ar trebui sa fie v12.1 daca totul e ok cand il rulati iar ar trebui sa apar
 <img width="734" height="234" alt="image" src="https://github.com/user-attachments/assets/c319d420-7e17-4dc7-9c86-c15d2b2a8f10" />
 
 respectiv interfata grafica.
-Clientul trebuie sa fie in: 1920x1080 , scaling 135%
-Incercati ca regiunea de detectie sa fie pozitionata deasupra apei, ca in exemplu:
+Clientul trebuie sa fie in: engleza, 1920x1080 , scaling 135%
 
+Incercati ca regiunea de detectie sa fie pozitionata deasupra apei, ca in exemplu:
 <img width="940" height="358" alt="image" src="https://github.com/user-attachments/assets/7ffaedc1-f896-4c68-a5db-bab3f6832bf7" />
 
