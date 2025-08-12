@@ -7,7 +7,9 @@ deschideti cu vs code
 rulati, daca device e cpu
 
 in terminal
+
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
 python -c "import torch; print(torch.version.cuda)"
 
 cuda ar trebui sa fie v12.1 daca totul e ok cand il rulati iar ar trebui sa apara logurile din figura
