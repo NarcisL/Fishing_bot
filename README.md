@@ -3,7 +3,7 @@ deschide-ti un cmd ca admin
 
 cd in folder
 
-setup_env.bat
+pip install -r requirments.txt
 
 deschideti cu vs code
 rulati, daca device e cpu
